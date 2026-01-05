@@ -322,7 +322,8 @@
 
   onReady(() => {
     hideSystemCursor();
-    initLiquidBackground();
+  //  initLiquidBackground();
     initCustomCursor();
   });
 })();
+
